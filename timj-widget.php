@@ -2,7 +2,7 @@
 /*
 Plugin Name: ThisIsMyJam Widget
 Plugin URI: http://andrewnorcross.com/plugins/timj-widget
-Description: Creates a widget provided by ThisIsMyJam.com with available options.
+Description: Share your favorite song of the moment with This Is My Jam.
 Version: 1.0
 Author: Andrew Norcross
 Author URI: http://andrewnorcross.com
