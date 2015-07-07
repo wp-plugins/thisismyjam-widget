@@ -1,8 +1,8 @@
 === This Is My Jam Widget ===
 Contributors: norcross
 Tags: music, this is my jam
-Tested up to: 3.5
-Stable tag: 1.01
+Tested up to: 4.2
+Stable tag: 1.02
 Requires at least: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -38,16 +38,19 @@ It's a place to put your favorite song of the moment and hear great music, handp
 1. The widget with options on the admin panel
 2. The widget displayed on the front-end of a site.
 
-== Upgrade Notice ==
-
-= 1.0 =
-* Initial Release
-
 == Changelog ==
+
+= 1.02 =
+* Update old PHP4 constructor
 
 = 1.01 =
 * CSS update to prevent image for bleeding over sidebar
 * Updates to readme and assets
+
+= 1.0 =
+* Initial Release
+
+== Upgrade Notice ==
 
 = 1.0 =
 * Initial Release
